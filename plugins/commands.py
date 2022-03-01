@@ -49,7 +49,7 @@ async def start(client, message):
             InlineKeyboardButton('about', callback_data='about')
             ],[
             InlineKeyboardButton('Main Channel', url='https://t.me/AllTypesOfMovies_hindi'),
-            InlineKeyboardButton('Movie Grouo', url='https://t.me/movies_request_group01')
+            InlineKeyboardButton('Movie Grouop', url='https://t.me/movies_request_group01')
             ],[
             InlineKeyboardButton('❌ Close the Menu ❌', callback_data='close_data')
         ]]
