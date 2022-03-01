@@ -1,5 +1,5 @@
 {
-    "name": "TG-Movie-Bot",
+    "name": "mrproviderx",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Anonymous-18110/tgmoviebot",
-    "repository": "https://github.com/Anonymous-18110/tgmoviebot",
+    "website": "https://github.com/Anonymous-18110/mrproviderx",
+    "repository": "https://github.com/Anonymous-18110/mrproviderx",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
